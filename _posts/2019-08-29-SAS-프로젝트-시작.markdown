@@ -24,7 +24,7 @@ sudo apt-get install build-essential cmake
 
 sudo apt-get install cmake
 
-pkg-config는 소스코드로부터 소프트웨어를 컴파일하거나 하기 위한 라이브러리를 조회하기 위해 통일된 인터페이스르 제공하는 컴퓨터 소프트웨어입니다.(위키백과)
-<a href="https://ko.wikipedia.org/wiki/Pkg-config"></a>
+pkg-config는 소스코드로부터 소프트웨어를 컴파일하거나 하기 위한 라이브러리를 조회하기 위해 통일된 인터페이스르 제공하는 컴퓨터 소프트웨어입니다.(<a href="https://ko.wikipedia.org/wiki/Pkg-config" data-title="위키백과">위키백과</a>)
+
 
 sudo apt-get pkg-config
