@@ -14,12 +14,12 @@ SAS프로젝트를 시작하기 위해 Raspberry Pi 에 Open CV를 설치해봅�
 
 먼저 OpenCV를 설치하기 전에 라즈베리파이의 패키지와 OS를 최신으로 설치합니다.
 
-sudo apt-get update:
+sudo apt-get update <br/>
 sudo apt-get upgrade
 
 다음으로 OpenCV의 컴파일을 위한 개발 툴을 설치합니다.
 
-sudo apt-get install build-essential cmake:
+sudo apt-get install build-essential cmake <br/>
 sudo apt-get install cmake
 
 pkg-config는 소스코드로부터 소프트웨어를 컴파일하거나 하기 위한 라이브러리를 조회하기 위해 통일된 인터페이스르 제공하는 컴퓨터 소프트웨어입니다.(<a href="https://ko.wikipedia.org/wiki/Pkg-config" data-title="위키백과">위키백과</a>)
