@@ -1,0 +1,13 @@
+---
+title:  "[SAS 프로젝트] OpenCV로 얼굴 검출하기" 
+date:   2019-09-12 12:16:05 
+author: BenzeneKim 
+categories: SAS 
+tags: SAS System_of_Agriculture_Systme 
+cover:  "/assets/instacode.png" 
+---
+
+##cascade파일을 사용하여 얼굴을 찾아보자
+<br>
+<br>
+###cascade file이란? 
