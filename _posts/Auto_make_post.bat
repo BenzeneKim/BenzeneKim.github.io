@@ -11,8 +11,8 @@ echo ^--->%POSTFIX%.markdown
 echo title:  "[SAS 프로젝트] OpenCV 설치하기" >>%POSTFIX%.markdown
 echo date:   %YEAR%-%MONTH%-%DAY% %HOUR%:%MINUTE%:%SECOND% >>%POSTFIX%.markdown
 echo author: BenzeneKim >>%POSTFIX%.markdown
-echo categories: SAS >>%POSTFIX%.markdown
-echo tags: SAS System_of_Agriculture_Systme >>%POSTFIX%.markdown
+echo categories: #cartegories_names >>%POSTFIX%.markdown
+echo tags: #tag names >>%POSTFIX%.markdown
 echo cover:  "/assets/instacode.png" >>%POSTFIX%.markdown
 echo --- >>%POSTFIX%.markdown
 
