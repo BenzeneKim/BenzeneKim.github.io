@@ -7,7 +7,7 @@ tags: SAS System_of_Agriculture_Systme
 cover:  "/assets/instacode.png" 
 ---
 
-##cascade파일을 사용하여 얼굴을 찾아보자
+## cascade파일을 사용하여 얼굴을 찾아보자
 <br>
 <br>
-###cascade file이란? 
+### cascade file이란? 

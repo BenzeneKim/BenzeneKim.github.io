@@ -7,14 +7,14 @@
 @set SECOND=%time:~6,2%
  
 @set POSTFIX=%YEAR%-%MONTH%-%DAY%
-echo ^--->%POSTFIX%.makrdown
-echo title:  "[SAS 프로젝트] OpenCV 설치하기" >>%POSTFIX%.makrdown
-echo date:   %YEAR%-%MONTH%-%DAY% %HOUR%:%MINUTE%:%SECOND% >>%POSTFIX%.makrdown
-echo author: BenzeneKim >>%POSTFIX%.makrdown
-echo categories: SAS >>%POSTFIX%.makrdown
-echo tags: SAS System_of_Agriculture_Systme >>%POSTFIX%.makrdown
-echo cover:  "/assets/instacode.png" >>%POSTFIX%.makrdown
-echo --- >>%POSTFIX%.makrdown
+echo ^--->%POSTFIX%.markdown
+echo title:  "[SAS 프로젝트] OpenCV 설치하기" >>%POSTFIX%.markdown
+echo date:   %YEAR%-%MONTH%-%DAY% %HOUR%:%MINUTE%:%SECOND% >>%POSTFIX%.markdown
+echo author: BenzeneKim >>%POSTFIX%.markdown
+echo categories: SAS >>%POSTFIX%.markdown
+echo tags: SAS System_of_Agriculture_Systme >>%POSTFIX%.markdown
+echo cover:  "/assets/instacode.png" >>%POSTFIX%.markdown
+echo --- >>%POSTFIX%.markdown
 
 echo
 @set YEAR=
