@@ -119,7 +119,7 @@ comments: true
 		</span>
 	</section>
 {% endif %}
-
+<!--
 {% if site.disqus_shortname %}
 {% unless page.disqus_disabled %}
 <section class="disqus">
@@ -139,6 +139,9 @@ comments: true
 </section>
 {% endunless %}
 {% endif %}
-
+-->
+{% if page.comments != false %}
+  {% include disqus_comments.html %}
+{% endif %}
 </div>
 </div>
