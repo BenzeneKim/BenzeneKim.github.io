@@ -1,5 +1,5 @@
 ---
-title:  "[SAS ÇÁ·ÎÁ§Æ®] OpenCV·Î ¾ó±¼ °ËÃâÇÏ±â" 
+title:  "[SAS í”„ë¡œì íŠ¸] OpenCVë¡œ ì–¼êµ´ ê²€ì¶œí•˜ê¸°" 
 date:   2019-09-12 12:16:05 
 author: BenzeneKim 
 categories: SAS 
@@ -7,7 +7,7 @@ tags: SAS System_of_Agriculture_Systme
 cover:  "/assets/instacode.png" 
 ---
 
-##cascadeÆÄÀÏÀ» »ç¿ëÇÏ¿© ¾ó±¼À» Ã£¾Æº¸ÀÚ
+##cascadeíŒŒì¼ì„ ì‚¬ìš©í•˜ì—¬ ì–¼êµ´ì„ ì°¾ì•„ë³´ì
 <br>
 <br>
-###cascade fileÀÌ¶õ? 
+###cascade fileì´ë€? 
