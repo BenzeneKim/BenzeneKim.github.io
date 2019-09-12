@@ -10,4 +10,6 @@ cover:  "/assets/instacode.png"
 ## cascade파일을 사용하여 얼굴을 찾아보자
 <br>
 <br>
-### cascade file이란? 
+### cascade file 이란? 
+<br>cascade file은 얼굴 등의 우리가 실행하려는 기능을 조금더 쉽게 할 수 있도록 도와주는 파일이다.
+<br>예를 들어 얼굴을 검출할 경우 눈, 코, 입 등의 특징이 될 만한 점을 찾아 얼굴을 판별하는 것이다. 
