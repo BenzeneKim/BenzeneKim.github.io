@@ -7,4 +7,4 @@ set MINUTE=%time:~3,2%
 set SECOND=%time:~6,2%
 
 set Title=%YEAR%-%MONTH%-%DAY%
-echo ^--- > title.markdown
+echo %Title%
