@@ -7,6 +7,7 @@ categories: blog
 tags: blog automation
 cover:  "/assets/instacode.png"
 ---
+
 # Github blog 작성 자동화
 
 Github 블로그를 위한 파일 생성에는 다음과 같은 조건이 따른다.
