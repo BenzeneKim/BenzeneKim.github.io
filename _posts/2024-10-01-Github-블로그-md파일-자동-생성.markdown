@@ -6,6 +6,7 @@ author: BenzeneKim
 categories: blog
 tags: blog automation
 cover:  "/assets/instacode.png"
+published: true
 ---
 
 # Github blog 작성 자동화
@@ -57,6 +58,7 @@ echo author: BenzeneKim
 echo categories: %categories%
 echo tags: %tags%
 echo cover:  "/assets/instacode.png"
+echo published: true
 echo ---
 ) > %filename%
 
