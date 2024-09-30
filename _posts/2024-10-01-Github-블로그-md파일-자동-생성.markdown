@@ -4,7 +4,7 @@ title:  "test-writing"
 date:   2024-10-01 02:11:21
 author: BenzeneKim
 categories: blog
-tags: blog, automation
+tags: blog automation
 cover:  "/assets/instacode.png"
 ---
 # Github blog 작성 자동화
