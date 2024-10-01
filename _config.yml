@@ -1,4 +1,4 @@
-# External gems
+9# External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
@@ -53,6 +53,10 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+
+  - cat: blog
+    desc: "About writing blog articles with github page and jekyll"
 
 # Social icons and sharing options
 #
