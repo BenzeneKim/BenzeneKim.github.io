@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shift-Touch : Extending Touchscreens with Passive Interface using Small Occluded Area for  Discrete Touch Input"
+title:  "Shift-Touch"
 date:   2024-11-03 02:11:21
 author: BenzeneKim
 categories: HCI
