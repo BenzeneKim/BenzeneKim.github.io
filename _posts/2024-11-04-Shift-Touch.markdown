@@ -5,14 +5,14 @@ date:   2024-11-03 02:11:21
 author: BenzeneKim
 categories: HCI
 tags: HCI paper_review
-cover:  "assets/images/shift_touch/Concept_of_ShiftTouch.png"
+cover:  "/assets/images/shift_touch/Concept_of_ShiftTouch.png"
 published: true
 ---
 
 # ShiftTouch
 Multiple Input Area while Reducing Screen Occlusion
 
-![Concept](assets/images/shift_touch/Concept_of_ShiftTouch.png)
+![Concept](/assets/images/shift_touch/Concept_of_ShiftTouch.png)
 
 # Introduction
 The contributions of this paper are as follows.
